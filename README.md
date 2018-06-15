@@ -11,13 +11,13 @@ __Use at your own risk.__
 ### Docker
 
 ```
-docker system prune —all
+docker system prune --all
 ```
 
 ### Conda
 
 ```
-conda clean —all
+conda clean --all
 ```
 
 ### Git
