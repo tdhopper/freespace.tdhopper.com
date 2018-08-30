@@ -2,9 +2,6 @@
 % Tim Hopper
 % 2018-08-30
 
-<span class="readable-content">
-Tools for cleaning up your system and freeing up space, especially for developers.
-
 ![](prune.jpg)
 
 __Use at your own risk.__
@@ -47,4 +44,3 @@ rm -r ~/.cache
 * [DaisyDisk](https://daisydiskapp.com)
 
 __Use at your own risk.__
-</span>
