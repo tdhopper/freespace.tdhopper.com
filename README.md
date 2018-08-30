@@ -26,6 +26,12 @@ conda clean --all
 git gc --aggressive --prune=now
 ```
 
+### Homebrew
+
+```
+brew cleanup -s
+```
+
 ### Mac/Linux Cache Folder
 
 ```
@@ -36,3 +42,5 @@ rm -r ~/.cache
 
 * [CleanMyMac](https://macpaw.com/cleanmymac)
 * [DaisyDisk](https://daisydiskapp.com)
+
+__Use at your own risk.__
