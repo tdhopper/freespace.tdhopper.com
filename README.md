@@ -35,3 +35,4 @@ rm -r ~/.cache
 ## Utilities
 
 * [CleanMyMac](https://macpaw.com/cleanmymac)
+* [DaisyDisk](https://daisydiskapp.com)
