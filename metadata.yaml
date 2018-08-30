@@ -5,6 +5,7 @@ author:
 - Tim Hopper
 - Author Two
 description: Tools for cleaning up your system and freeing up space, especially for developers.
+summary: Tools for cleaning up your system and freeing up space, especially for developers.
 keywords:
 - git
 - conda
