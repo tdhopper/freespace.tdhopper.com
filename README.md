@@ -1,6 +1,9 @@
-# Prune Things
+% Free Disk Space
+% Tim Hopper
+% 2018-08-30
 
-Tools for cleaning up your system and freeing up space. 
+<span class="readable-content">
+Tools for cleaning up your system and freeing up space, especially for developers.
 
 ![](prune.jpg)
 
@@ -44,3 +47,4 @@ rm -r ~/.cache
 * [DaisyDisk](https://daisydiskapp.com)
 
 __Use at your own risk.__
+</span>
