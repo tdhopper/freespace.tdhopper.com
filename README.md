@@ -42,6 +42,7 @@ rm -r ~/.cache
 
 * [CleanMyMac](https://macpaw.com/cleanmymac)
 * [DaisyDisk](https://daisydiskapp.com)
+* [Monolingual](https://ingmarstein.github.io/Monolingual/): "program for removing unnecessary language resources from macOS, in order to reclaim several hundred megabytes of disk space"
 
 __Use at your own risk.__
 
