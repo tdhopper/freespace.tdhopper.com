@@ -44,3 +44,5 @@ rm -r ~/.cache
 * [DaisyDisk](https://daisydiskapp.com)
 
 __Use at your own risk.__
+
+([Pull request's welcome](https://github.com/tdhopper/freespace)).
