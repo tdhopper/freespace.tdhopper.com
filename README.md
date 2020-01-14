@@ -38,6 +38,12 @@ brew cleanup -s
 rm -r ~/.cache
 ```
 
+### Yarn
+
+```
+yarn cache clean
+```
+
 ## Utilities
 
 * [CleanMyMac](https://macpaw.com/cleanmymac)
