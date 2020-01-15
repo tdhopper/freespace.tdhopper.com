@@ -32,6 +32,16 @@ git gc --aggressive --prune=now
 brew cleanup -s
 ```
 
+### apt-get / aptitude
+
+```
+apt-get clean
+# or
+apt clean
+# or
+aptitude clean
+```
+
 ### Mac/Linux Cache Folder
 
 ```
