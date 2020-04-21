@@ -10,31 +10,39 @@ __Use at your own risk.__
 
 ### Docker
 
-```
+```bash
 docker system prune --all
 ```
 
 ### Conda
 
-```
+```bash
 conda clean --all
 ```
 
 ### Git
 
-```
+#### Cleanup unnecessary files and optimize the local repository
+
+```bash
 git gc --aggressive --prune=now
+```
+
+### Deleted merged branches (except for `master` and `dev`)
+
+```bash
+git branch --merged | egrep -v "(^\*|master|dev)" | xargs git branch -d
 ```
 
 ### Homebrew
 
-```
+```bash
 brew cleanup -s
 ```
 
 ### apt-get / aptitude
 
-```
+```bash
 apt-get clean
 # or
 apt clean
@@ -44,13 +52,13 @@ aptitude clean
 
 ### Mac/Linux Cache Folder
 
-```
+```bash
 rm -r ~/.cache
 ```
 
 ### Yarn
 
-```
+```bash
 yarn cache clean
 ```
 
