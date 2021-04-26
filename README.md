@@ -28,10 +28,10 @@ conda clean --all
 git gc --aggressive --prune=now
 ```
 
-### Deleted merged branches (except for `master` and `dev`)
+### Deleted merged branches (except for `master`, `main`, `develop` or `dev`)
 
 ```bash
-git branch --merged | egrep -v "(^\*|master|dev)" | xargs git branch -d
+git branch --merged | egrep -v "(^\*|master|main|develop|dev)" | xargs git branch -d
 ```
 
 ### Homebrew
