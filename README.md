@@ -70,4 +70,4 @@ yarn cache clean
 
 __Use at your own risk.__
 
-([Pull request's welcome](https://github.com/tdhopper/freespace.tdhopper.com))
+([Pull requests welcome](https://github.com/tdhopper/freespace.tdhopper.com))
