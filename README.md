@@ -20,6 +20,12 @@ docker system prune --all
 conda clean --all
 ```
 
+### uv
+
+```bash
+uv cache clean
+```
+
 ### Git
 
 #### Cleanup unnecessary files and optimize the local repository
