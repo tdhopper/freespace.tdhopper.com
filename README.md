@@ -56,6 +56,12 @@ aptitude clean
 rm -r ~/.cache
 ```
 
+### uv
+
+```bash
+uv cache prune
+```
+
 ### Yarn
 
 ```bash
