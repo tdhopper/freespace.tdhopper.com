@@ -12,6 +12,8 @@ __Use at your own risk.__
 
 ```bash
 docker system prune --all
+# and
+docker builder prune --all
 ```
 
 ### Conda
